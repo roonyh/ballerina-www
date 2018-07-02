@@ -30,7 +30,7 @@ In this webinar, we will:
 </ul>
 
 
-## Presenter
+## Presenters
 
 <table class="cWebinarPresenter">
     <tr>
